@@ -1,0 +1,1 @@
+Optimize timelapse videos created from a camera that continuously saves screenshots by removing images captured during nighttime. This ensures the video focuses only on daytime frames, creating a smoother and more visually consistent timelapse over extended periods (e.g., one year) while reducing flickering caused by lighting inconsistencies.
